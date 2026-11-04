@@ -9,4 +9,4 @@ This is a satisfying game i made using claude and gpt
 
 if you got any bugs or problems just tell me .
 
-if you want to do commercial use you MUST inculde crédit . 
+if you want to use it in commercial use you MUST inculde crédit . 
